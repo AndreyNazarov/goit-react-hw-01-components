@@ -1,0 +1,28 @@
+.friendsList {
+  list-style: none;
+}
+
+.item {
+  padding: 10px;
+  margin-bottom: 10px;
+  display: flex;
+  list-style: none;
+  border: 1px solid black;
+  border-radius: 5px;
+  align-items: center;
+  width: 47%;
+}
+
+.status {
+  display: block;
+  width: 10px;
+  height: 10px;
+  border: 1px solid black;
+  border-radius: 50%;
+}
+
+.name {
+  font-style: oblique;
+  font-size: 20px;
+  font-weight: normal;
+}
